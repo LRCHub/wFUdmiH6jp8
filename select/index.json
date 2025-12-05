@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "相生",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-05T14:27:47.071733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "相生 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/01_相生_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "相生",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/02_相生_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "相生",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO",
+      "has_synced": true,
+      "path": "select/03_相生_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "相生 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/04_相生_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "相生 (feat. 星乃一歌 & 天馬咲希 & 望月穂波 & 日野森志歩 & MEIKO)",
+      "artist": "Leo need",
+      "has_synced": true,
+      "path": "select/05_相生_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&_日野森志歩_&_MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "相生 (instrumental)",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/06_相生_(instrumental)_Leo_need.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "相生 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_相生_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.txt"
+    }
+  ]
+}
